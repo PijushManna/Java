@@ -1,0 +1,77 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - FilesOutputExample",
+			"request": "launch",
+			"mainClass": "FilesOutputExample",
+			"projectName": "Java_b6aca7f9"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - FileOutputExample",
+			"request": "launch",
+			"mainClass": "FileOutputExample",
+			"projectName": "Java_b6aca7f9"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - DemoSystem",
+			"request": "launch",
+			"mainClass": "DemoSystem",
+			"projectName": "Java_b6aca7f9"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Reentrant",
+			"request": "launch",
+			"mainClass": "Reentrant",
+			"projectName": "Java_b6aca7f9"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - ThreadInterrupt",
+			"request": "launch",
+			"mainClass": "ThreadInterrupt",
+			"projectName": "Java_b6aca7f9"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Bank",
+			"request": "launch",
+			"mainClass": "Bank",
+			"projectName": "Java_b6aca7f9"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - DeadlockDemo",
+			"request": "launch",
+			"mainClass": "DeadlockDemo",
+			"projectName": "Java_b6aca7f9"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TestExec",
+			"request": "launch",
+			"mainClass": "TestExec",
+			"projectName": "Java_b6aca7f9"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TestShutdownHook",
+			"request": "launch",
+			"mainClass": "TestShutdownHook",
+			"projectName": "Java_b6aca7f9"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - StartThread",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"console": "internalConsole",
+			"stopOnEntry": false,
+			"mainClass": "StartThread",
+			"args": ""
+		}
+	]
+}

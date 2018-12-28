@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - filePerm",
+            "request": "launch",
+            "mainClass": "permission.filePerm",
+            "projectName": "ConsoleDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - read",
+            "request": "launch",
+            "mainClass": "read",
+            "projectName": "ConsoleDemo"
+        }
+    ]
+}
