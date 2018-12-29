@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "ConsoleDemo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BufferedWriterExample",
             "request": "launch",
             "mainClass": "BufferedWriterExample",
