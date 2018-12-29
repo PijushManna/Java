@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BufferedWriterExample",
+            "request": "launch",
+            "mainClass": "BufferedWriterExample",
+            "projectName": "ConsoleDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - writerExample",
+            "request": "launch",
+            "mainClass": "writerExample",
+            "projectName": "ConsoleDemo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - filePerm",
             "request": "launch",
             "mainClass": "permission.filePerm",
