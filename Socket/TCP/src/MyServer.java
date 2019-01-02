@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.Scanner;
 
-class MyServer{
+class MyServer {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         try {
@@ -16,14 +16,14 @@ class MyServer{
 
             // Read and Write
             String msg = dInputStream.readUTF();
-            System.out.println(msg);
+            System.out.println(socket.getRemoteSocketAddress() + " : " + msg);
 
-            String reply = sc.next(); 
+            String reply = System.console().readLine("You :");
             dOutputStream.writeUTF(reply);
 
             // Flush
             dOutputStream.flush();
-            
+
             // Close all
             socket.close();
             server.close();
@@ -32,7 +32,7 @@ class MyServer{
             System.out.print("Error in server\n");
             e.printStackTrace();
         }
-        
+
         sc.close();
     }
 }

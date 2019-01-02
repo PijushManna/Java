@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - URLDemo",
+            "request": "launch",
+            "mainClass": "URLDemo",
+            "projectName": "TCP"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - URLConnectionExample",
+            "request": "launch",
+            "mainClass": "URLConnectionExample",
+            "projectName": "TCP"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyServer",
+            "request": "launch",
+            "mainClass": "MyServer",
+            "projectName": "TCP"
+        }
+    ]
+}

@@ -15,14 +15,13 @@ class MyClient {
             dOutputStream.writeUTF(msg);
 
             String reply = dInputStream.readUTF();
-            System.out.println("Server : " + reply);
+            System.out.println(socket.getRemoteSocketAddress()+" (Server) : " + reply);
 
             // Close
             socket.close();
         } catch (UnknownHostException e) {
             e.printStackTrace();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 
