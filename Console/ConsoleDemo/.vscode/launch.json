@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - charReader",
+            "request": "launch",
+            "mainClass": "charReader",
+            "projectName": "ConsoleDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - buffReader",
+            "request": "launch",
+            "mainClass": "buffReader",
+            "projectName": "ConsoleDemo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - test",
             "request": "launch",
             "mainClass": "test",
