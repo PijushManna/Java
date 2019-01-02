@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - IPAddress",
+            "request": "launch",
+            "mainClass": "IPAddress",
+            "projectName": "TCP"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - URLDemo",
             "request": "launch",
             "mainClass": "URLDemo",
