@@ -1,0 +1,88 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PanelExample",
+            "request": "launch",
+            "mainClass": "PanelExample",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PopupMenuDemo",
+            "request": "launch",
+            "mainClass": "PopupMenuDemo",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MenuBarDemo",
+            "request": "launch",
+            "mainClass": "MenuBarDemo",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CanvasDemo",
+            "request": "launch",
+            "mainClass": "CanvasDemo",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChoiceDemo",
+            "request": "launch",
+            "mainClass": "ChoiceDemo",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingleCheckbox",
+            "request": "launch",
+            "mainClass": "SingleCheckbox",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordCounter",
+            "request": "launch",
+            "mainClass": "WordCounter",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IPFinder",
+            "request": "launch",
+            "mainClass": "IPFinder",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CEvent",
+            "request": "launch",
+            "mainClass": "CEvent",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BEvent",
+            "request": "launch",
+            "mainClass": "BEvent",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AEvent",
+            "request": "launch",
+            "mainClass": "AEvent",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SampleButton",
+            "request": "launch",
+            "mainClass": "SampleButton",
+            "projectName": "Testing"
+        }
+    ]
+}
