@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - WindowListenerExample",
+            "request": "launch",
+            "mainClass": "WindowListenerExample",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KeyListenerExample",
+            "request": "launch",
+            "mainClass": "KeyListenerExample",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ToolkitExample",
+            "request": "launch",
+            "mainClass": "ToolkitExample",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DialogDemo",
+            "request": "launch",
+            "mainClass": "DialogDemo",
+            "projectName": "Testing"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PanelExample",
             "request": "launch",
             "mainClass": "PanelExample",
