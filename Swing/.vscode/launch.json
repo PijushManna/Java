@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TableExample",
+            "request": "launch",
+            "mainClass": "TableExample",
+            "projectName": "Swing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComboBoxExample",
+            "request": "launch",
+            "mainClass": "ComboBoxExample",
+            "projectName": "Swing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComboboxDemo",
+            "request": "launch",
+            "mainClass": "ComboboxDemo",
+            "projectName": "Swing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Delivery",
+            "request": "launch",
+            "mainClass": "Delivery",
+            "projectName": "Swing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JButtonExample",
+            "request": "launch",
+            "mainClass": "JButtonExample",
+            "projectName": "Swing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InsideConstructor",
+            "request": "launch",
+            "mainClass": "InsideConstructor",
+            "projectName": "Swing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstSwingExample",
+            "request": "launch",
+            "mainClass": "FirstSwingExample",
+            "projectName": "Swing"
+        }
+    ]
+}
